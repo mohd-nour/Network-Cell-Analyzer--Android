@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">NetCellAnalyzer</string>
+    <string name="lte">LTE</string>
+    <string name="time_stamp">Time Stamp</string>
+    <string name="cell_id">Cell ID</string>
+    <string name="frequency_band">Frequency Band</string>
+    <string name="snr">SNR</string>
+    <string name="real_time_cell_info">REAL-TIME CELL INFO</string>
+    <string name="operator">Operator</string>
+    <string name="syncing1">Syncing...</string>
+    <string name="syncing2">Syncing...</string>
+    <string name="syncing3">Syncing...</string>
+    <string name="syncing5">Syncing...</string>
+    <string name="average_info">AVERAGE INFO</string>
+    <string name="pwr_db">__ dB</string>
+    <string name="sync">SYNC</string>
+    <string name="average_op_time">Average Op Time</string>
+    <string name="avg_op_time">AVG OP CONNECTIVITY</string>
+    <string name="avg_time">AVG NTWK CONNECTIVITY</string>
+    <string name="avg_net_time">AVG SNR</string>
+    <string name="avg_sig_power">AVG SIGNAL POWER</string>
+    <string name="to">to</string>
+    <string-array name="timestamps">
+        <item>Timestamp 1</item>
+        <item>Timestamp 2</item>
+        <item>Timestamp 3</item>
+    </string-array>
+</resources>
